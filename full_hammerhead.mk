@@ -34,6 +34,6 @@ $(call inherit-product, device/lge/hammerhead/device.mk)
 $(call inherit-product-if-exists, vendor/lge/hammerhead/device-vendor.mk)
 
 # Overrides
-PRODUCT_BUILD_PROP_OVERRIDES += \
+PRODUCT_PROPERTY_OVERRIDES += \
     log.tag.launcher_force_rotate=VERBOSE
 
