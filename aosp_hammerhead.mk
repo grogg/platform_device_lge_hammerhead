@@ -23,5 +23,7 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     busybox \
     static_busybox \
-    ScreenRecorder
+    ScreenRecorder \
+    Browser \
+    Gallery
 
