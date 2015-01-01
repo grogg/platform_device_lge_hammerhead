@@ -22,5 +22,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     shutdownlistener \
     busybox \
-    static_busybox
+    static_busybox \
+    ScreenRecorder
 
