@@ -25,5 +25,5 @@ PRODUCT_PACKAGES += \
     static_busybox \
     ScreenRecorder \
     Browser \
-    Gallery
+    Gallery2
 
