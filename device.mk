@@ -21,7 +21,7 @@
 
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
-LOCAL_KERNEL := hh-kernel/kernel/arch/arm/boot/zImage-dtb
+LOCAL_KERNEL := device/lge/hammerhead-kernel/kernel/arch/arm/boot/zImage-dtb
 else
 LOCAL_KERNEL := $(TARGET_PREBUILT_KERNEL)
 endif
