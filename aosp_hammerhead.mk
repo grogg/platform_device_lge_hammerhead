@@ -24,5 +24,6 @@ PRODUCT_PACKAGES += \
     busybox \
     static_busybox \
     Browser \
-    Gallery2
+    Gallery2 \
+    CMFileManager
 
