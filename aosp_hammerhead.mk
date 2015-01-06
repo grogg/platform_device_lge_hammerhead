@@ -25,5 +25,7 @@ PRODUCT_PACKAGES += \
     static_busybox \
     Browser \
     Gallery2 \
-    CMFileManager
+    CMFileManager \
+    ScreenRecorder \
+    libscreenrecorder
 
