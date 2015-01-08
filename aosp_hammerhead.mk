@@ -21,12 +21,6 @@ PRODUCT_PACKAGES += \
     Launcher3 \
     TimeService \
     shutdownlistener \
-    busybox \
-    static_busybox \
-    Browser \
-    Gallery2 \
-    CMFileManager \
-    ScreenRecorder \
-    libscreenrecorder \
-    AdAway
+
+
 
