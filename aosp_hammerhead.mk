@@ -28,5 +28,5 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     ScreenRecorder \
     libscreenrecorder \
-    adaway
+    AdAway
 
