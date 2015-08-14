@@ -157,6 +157,3 @@ USE_MINIKIN := true
 
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
-
-# ANT related defines
-BOARD_ANT_WIRELESS_DEVICE := "BCM4339"
